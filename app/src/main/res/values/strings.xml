@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChocolateShop</string>
+    <string name="business_name_1">Moda</string>
+    <string name="business_name_2">Çikolata Dükkanı</string>
+    <string name="explanation">more than a chocolate...</string>
+    <string name="open">Opening Hours</string>
+    <string name="open_times">Today 12:30 to 21:30</string>
+    <string name="open_updates">Open Now!</string>
+    <string name="address">Address</string>
+    <string name="address_given">Caferağa Mah. Yeni Fikir Sokak \nNo:1/A Kadıköy/İstanbul </string>
+    <string name="phone">"Phone Number</string>
+    <string name="phone_given">+90 216 345 05 26</string>
+    <string name="account">account</string>
+    <string name="order">order</string>
+    <string name="products">products</string>
+</resources>
